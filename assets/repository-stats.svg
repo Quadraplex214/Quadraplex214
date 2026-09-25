@@ -1,0 +1,92 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="414" viewBox="0 0 900 414" role="img" aria-labelledby="title description">
+  <title id="title">Quadraplex214 repository statistics</title>
+  <desc id="description">5 public repositories, 4 source projects, 0 stars, 0 forks, with language distribution calculated from repository bytes.</desc>
+  <defs>
+    <linearGradient id="border" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#8b5cf6"/>
+      <stop offset=".46" stop-color="#312e81"/>
+      <stop offset="1" stop-color="#2563eb"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="0" cy="0" r="1" gradientTransform="translate(730 45) rotate(145) scale(360 220)">
+      <stop stop-color="#4f46e5" stop-opacity=".18"/>
+      <stop offset="1" stop-color="#0a0a12" stop-opacity="0"/>
+    </radialGradient>
+    <clipPath id="language-clip">
+      <rect x="48" y="265" width="804" height="14" rx="7"/>
+    </clipPath>
+    <style>
+      text { font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", monospace; }
+      .eyebrow { fill: #a78bfa; font-size: 12px; font-weight: 700; letter-spacing: 2px; }
+      .heading { fill: #f8fafc; font-size: 25px; font-weight: 700; letter-spacing: -.6px; }
+      .label { fill: #8b91a7; font-size: 10px; font-weight: 700; letter-spacing: 1.25px; }
+      .metric { fill: #f4f1ff; font-size: 26px; font-weight: 700; }
+      .section { fill: #d8d5e5; font-size: 12px; font-weight: 700; letter-spacing: 1.3px; }
+      .language { fill: #d7d9e3; font-size: 13px; font-weight: 600; }
+      .percentage { fill: #8f95aa; font-size: 12px; }
+      .muted { fill: #747b91; font-size: 12px; }
+    </style>
+  </defs>
+  <rect x="1" y="1" width="898" height="412" rx="22" fill="#0a0a12" stroke="url(#border)" stroke-width="2"/>
+  <rect x="2" y="2" width="896" height="410" rx="21" fill="url(#glow)"/>
+  <path d="M650 1H899V170" fill="none" stroke="#818cf8" stroke-opacity=".07"/>
+  <path d="M700 1H899V120" fill="none" stroke="#38bdf8" stroke-opacity=".06"/>
+
+  <text x="48" y="43" class="eyebrow">QUADRAPLEX214 / REPOSITORY INDEX</text>
+  <text x="48" y="79" class="heading">Building in public, measured honestly.</text>
+  <circle cx="839" cy="49" r="4" fill="#22d3ee"/>
+  <circle cx="839" cy="49" r="10" fill="none" stroke="#22d3ee" stroke-opacity=".2"/>
+
+  
+      <g transform="translate(48 112)">
+        <rect width="185" height="82" rx="14" fill="#11111d" stroke="#28243f"/>
+        <rect x="1" y="1" width="3" height="80" rx="2" fill="#8b5cf6" opacity=".85"/>
+        <text x="20" y="29" class="label">PUBLIC REPOS</text>
+        <text x="20" y="62" class="metric">5</text>
+      </g>
+      <g transform="translate(249 112)">
+        <rect width="185" height="82" rx="14" fill="#11111d" stroke="#28243f"/>
+        <rect x="1" y="1" width="3" height="80" rx="2" fill="#60a5fa" opacity=".85"/>
+        <text x="20" y="29" class="label">SOURCE PROJECTS</text>
+        <text x="20" y="62" class="metric">4</text>
+      </g>
+      <g transform="translate(450 112)">
+        <rect width="185" height="82" rx="14" fill="#11111d" stroke="#28243f"/>
+        <rect x="1" y="1" width="3" height="80" rx="2" fill="#8b5cf6" opacity=".85"/>
+        <text x="20" y="29" class="label">STARS EARNED</text>
+        <text x="20" y="62" class="metric">0</text>
+      </g>
+      <g transform="translate(651 112)">
+        <rect width="185" height="82" rx="14" fill="#11111d" stroke="#28243f"/>
+        <rect x="1" y="1" width="3" height="80" rx="2" fill="#60a5fa" opacity=".85"/>
+        <text x="20" y="29" class="label">FORKS</text>
+        <text x="20" y="62" class="metric">0</text>
+      </g>
+
+  <text x="48" y="235" class="section">LANGUAGES / BY BYTES</text>
+  <g clip-path="url(#language-clip)">
+    <rect x="48" y="265" width="804" height="14" fill="#1c1b29"/>
+    <rect x="48.00" y="265" width="422.90" height="14" fill="#a78bfa"/><rect x="470.90" y="265" width="291.85" height="14" fill="#60a5fa"/><rect x="762.76" y="265" width="78.79" height="14" fill="#22d3ee"/><rect x="841.55" y="265" width="10.45" height="14" fill="#e879f9"/>
+  </g>
+
+  
+      <g transform="translate(48 319)">
+        <rect y="-10" width="10" height="10" rx="3" fill="#a78bfa"/>
+        <text x="20" class="language">TypeScript</text>
+        <text x="242" text-anchor="end" class="percentage">52.6%</text>
+      </g>
+      <g transform="translate(316 319)">
+        <rect y="-10" width="10" height="10" rx="3" fill="#60a5fa"/>
+        <text x="20" class="language">JavaScript</text>
+        <text x="242" text-anchor="end" class="percentage">36.3%</text>
+      </g>
+      <g transform="translate(584 319)">
+        <rect y="-10" width="10" height="10" rx="3" fill="#22d3ee"/>
+        <text x="20" class="language">CSS</text>
+        <text x="242" text-anchor="end" class="percentage">9.8%</text>
+      </g>
+      <g transform="translate(48 362)">
+        <rect y="-10" width="10" height="10" rx="3" fill="#e879f9"/>
+        <text x="20" class="language">HTML</text>
+        <text x="242" text-anchor="end" class="percentage">1.3%</text>
+      </g>
+</svg>
