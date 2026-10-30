@@ -65,14 +65,14 @@
   <text x="48" y="235" class="section">LANGUAGES / BY BYTES</text>
   <g clip-path="url(#language-clip)">
     <rect x="48" y="265" width="804" height="14" fill="#1c1b29"/>
-    <rect x="48.00" y="265" width="413.26" height="14" fill="#a78bfa"/><rect x="461.26" y="265" width="329.64" height="14" fill="#60a5fa"/><rect x="790.90" y="265" width="61.10" height="14" fill="#22d3ee"/>
+    <rect x="48.00" y="265" width="412.45" height="14" fill="#a78bfa"/><rect x="460.45" y="265" width="329.64" height="14" fill="#60a5fa"/><rect x="790.09" y="265" width="61.91" height="14" fill="#22d3ee"/>
   </g>
 
   
       <g transform="translate(48 319)">
         <rect y="-10" width="10" height="10" rx="3" fill="#a78bfa"/>
         <text x="20" class="language">JavaScript</text>
-        <text x="242" text-anchor="end" class="percentage">51.4%</text>
+        <text x="242" text-anchor="end" class="percentage">51.3%</text>
       </g>
       <g transform="translate(316 319)">
         <rect y="-10" width="10" height="10" rx="3" fill="#60a5fa"/>
@@ -82,6 +82,6 @@
       <g transform="translate(584 319)">
         <rect y="-10" width="10" height="10" rx="3" fill="#22d3ee"/>
         <text x="20" class="language">CSS</text>
-        <text x="242" text-anchor="end" class="percentage">7.6%</text>
+        <text x="242" text-anchor="end" class="percentage">7.7%</text>
       </g>
 </svg>
